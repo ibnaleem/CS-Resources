@@ -13,4 +13,4 @@ a comprehensive collection of valuable computer science resources
 
 
 > [!IMPORTANT]
-> Books must be uploaded as PDFs
+> Books must be uploaded as PDFs or markdown files containing links to books
