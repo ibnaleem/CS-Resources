@@ -9,4 +9,6 @@ a comprehensive collection of valuable computer science resources
 3. [Open Pull Request](https://github.com/ibnaleem/CS-Resources/pulls)
 4. Merged
 
-> *Books must be uploaded as PDFs*
+
+> [!IMPORTANT]
+> Books must be uploaded as PDFs
