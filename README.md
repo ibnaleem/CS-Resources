@@ -13,4 +13,4 @@ a comprehensive collection of valuable computer science resources
 
 
 > [!IMPORTANT]
-> Books must be uploaded as PDFs or markdown files containing links to books
+> If the book is too large to upload, just add a `.txt` extension to the book's name and submit a single link where the book can be viewed or downloaded.
