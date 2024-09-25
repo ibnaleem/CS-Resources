@@ -1,3 +1,5 @@
+![SIZE](https://img.shields.io/github/repo-size/ibnaleem/cs-resources) ![COMMIT](https://img.shields.io/github/last-commit/ibnaleem/cs-resources
+) 
 # CS-Resources
 a comprehensive collection of valuable computer science resources
 
